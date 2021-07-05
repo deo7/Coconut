@@ -13,7 +13,7 @@ python setup.py install
 python coconut.py [-h] [-g] [-s] [-l] [-d]
 ```
 
-# Demonstartion 📸
+# Demonstration 📸
 ![helpmenu](Coconut/screens/helpmenu.png)
 
 ![menu](Coconut/screens/menu.png)
